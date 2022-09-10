@@ -20,7 +20,7 @@
       "type": "integer",
       "maximum": 5
     },
-    "recurrence": {
+    "device_vendor_msft_policy_config_internetexplorer_configureedgeredirectchannel_neededgebrowser": {
       "type": "string",
       "enum": ["Microsoft Edge Stable", "Microsoft Edge Beta version 77 or later", "Microsoft Edge Dev version 77 or later", "Microsoft Edge Canary version 77 or later","Microsoft Edge version 45 or earlier"]
     },
