@@ -20,9 +20,9 @@
       "type": "integer",
       "maximum": 5
     },
-    "recurrence": {
+    "First choise (Device)": {
       "type": "string",
-      "enum": ["Never", "Daily", "Weekly", "Monthly"]
+      "enum": ["Microsoft Edge Stable", "Microsoft Edge Beta version 77 or later", "Microsoft Edge Dev version 77 or later", "Microsoft Edge Canary version 77 or later","Microsoft Edge version 45 or earlier"]
     },
     "recurrence_interval": {
       "type": "integer"
