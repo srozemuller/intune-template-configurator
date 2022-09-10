@@ -3,7 +3,7 @@
   "elements": [
     {
       "type": "Control",
-      "label": "sfsafas",
+      "label": "Control",
       "scope": "#/properties/done"
     },
     {
@@ -28,7 +28,7 @@
       "elements": [
         {
           "type": "Control",
-          "scope": "#/properties/recurrence"
+          "scope": "#/properties/device_vendor_msft_policy_config_internetexplorer_configureedgeredirectchannel_neededgebrowser"
         },
         {
           "type": "Control",
@@ -37,7 +37,7 @@
             "effect": "HIDE",
             "condition": {
               "type": "LEAF",
-              "scope": "#/properties/recurrence",
+              "scope": "#/properties/device_vendor_msft_policy_config_internetexplorer_configureedgeredirectchannel_neededgebrowser",
               "expectedValue": "Never"
             }
           }
